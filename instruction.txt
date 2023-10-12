@@ -1,0 +1,4 @@
+creating venv: python3 -m venv .env
+to activate: . .env/bin/activate
+to install all librabries: pip install -r requirements.txt
+to run: python3 main.py
